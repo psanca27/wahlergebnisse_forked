@@ -1,5 +1,6 @@
-#discarder
+#ignore
 /_discarded/*
+election_results_expanded.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
